@@ -6,5 +6,9 @@ pages:
 - Overview: 'index.md'
 - libwyliodrin:
     - 'Constants': 'constants.md'
-    - 'Functions': 'functions.md'
-    
+    - 'Peripheral Control': 'functions.md'
+    - 'Time': 'timing.md'
+    - 'Math': 'math.md'
+    - 'Bits and Bytes': 'bits.md'
+    - 'SPI Communication': 'spi.md'
+    - 'I2C Communication': 'i2c.md'
