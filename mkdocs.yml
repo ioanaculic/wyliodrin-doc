@@ -12,3 +12,5 @@ pages:
     - 'Bits and Bytes': 'bits.md'
     - 'SPI Communication': 'spi.md'
     - 'I2C Communication': 'i2c.md'
+    - 'Signals': 'signal.md'
+    - 'Board Communication': 'communication.md'
